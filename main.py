@@ -64,3 +64,5 @@ def meniu():
 
 if __name__ == '__main__':
     meniu()
+
+print('Foarte tare')
